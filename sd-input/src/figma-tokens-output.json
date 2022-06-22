@@ -466,6 +466,14 @@
         "letterSpacing": "{loose}"
       },
       "type": "typography"
+    },
+    "smradius": {
+      "value": "2",
+      "type": "borderRadius"
+    },
+    "mdradius": {
+      "value": "{smradius}*2",
+      "type": "borderRadius"
     }
   },
   "$themes": []
