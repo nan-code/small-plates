@@ -9,8 +9,6 @@
     "serve": "npx backlight@latest serve DUiJSW04KExS5FQx6HXs --open"
   },
   "devDependencies": {
-    "@divriots/dockit-core": "^0.9.1",
-    "lit": "^2.2.7"
   },
   "dependencies": {}
 }
