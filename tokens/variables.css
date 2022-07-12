@@ -3,6 +3,23 @@
  */
 
 :root {
+  --figma-thumbnail-xl: 5rem;
+  --figma-thumbnail-object-background: #EAEEFC;
+  --figma-thumbnail-object-label: #5578EB;
+  --figma-thumbnail-object-radius: 2*2;
+  --figma-thumbnail-lg: 4rem;
+  --figma-thumbnail-md: 3rem;
+  --figma-thumbnail-sm: 2rem;
+  --figma-thumbnail-profile-radius: 50%;
+  --figma-thumbnail-label-xl: [object Object];
+  --figma-thumbnail-label-lg: [object Object];
+  --figma-thumbnail-label-md: [object Object];
+  --figma-thumbnail-label-sm: [object Object];
+  --figma-thumbnail-profile-background: #F2F3F8;
+  --figma-thumbnail-profile-label: #8684A0;
+  --figma-thumbnail-navigation-background: #141929;
+  --figma-thumbnail-navigation-label: #CFCED9;
+  --figma-thumbnail-navigation-radius: 2;
   --figma-primary-50: #EAEEFC;
   --figma-primary-100: #BFCCF8;
   --figma-primary-200: #95ABF3;
@@ -98,6 +115,16 @@
   --figma-link-text: [object Object];
   --figma-pre-title: [object Object];
   --figma-small-copy: [object Object];
-  --figma-smradius: 2;
-  --figma-mdradius: 2*2;
+  --figma-text-50: #E7E6EC;
+  --figma-text-100: #CFCED9;
+  --figma-text-200: #B7B5C6;
+  --figma-text-300: #9F9CB3;
+  --figma-text-400: #8684A0;
+  --figma-text-500: #48465B;
+  --figma-text-600: #363544;
+  --figma-text-700: #2D2C39;
+  --figma-text-800: #24232D;
+  --figma-text-900: #09090B;
+  --figma-card-small: 2;
+  --figma-card-medium: 2*2;
 }
