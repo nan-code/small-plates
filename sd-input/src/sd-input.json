@@ -114,7 +114,7 @@
       "type": "color"
     },
     "500": {
-      "value": "#5578EB",
+      "value": "#23a447",
       "type": "color"
     },
     "600": {
@@ -397,7 +397,7 @@
     "type": "fontWeights"
   },
   "40px": {
-    "value": "10px",
+    "value": "40px",
     "type": "fontSizes"
   },
   "32px": {
