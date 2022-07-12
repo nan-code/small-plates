@@ -5,7 +5,7 @@
 :root {
   --figma-thumbnail-xl: 5rem;
   --figma-thumbnail-object-background: #EAEEFC;
-  --figma-thumbnail-object-label: #5578EB;
+  --figma-thumbnail-object-label: #23a447;
   --figma-thumbnail-object-radius: 2*2;
   --figma-thumbnail-lg: 4rem;
   --figma-thumbnail-md: 3rem;
@@ -25,7 +25,7 @@
   --figma-primary-200: #95ABF3;
   --figma-primary-300: #809AF0;
   --figma-primary-400: #6A89ED;
-  --figma-primary-500: #5578EB;
+  --figma-primary-500: #23a447;
   --figma-primary-600: #315CE7;
   --figma-primary-700: #1945D7;
   --figma-primary-800: #153AB3;
@@ -89,7 +89,7 @@
   --figma-regular: Regular;
   --figma-medium: Medium;
   --figma-semibold: SemiBold;
-  --figma-40px: 10px;
+  --figma-40px: 40px;
   --figma-32px: 32px;
   --figma-24px: 24px;
   --figma-20px: 20px;
