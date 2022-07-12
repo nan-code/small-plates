@@ -1,10 +1,9 @@
 {
-  "name": "@backlight-dev/small-plates.blank-l4q0snfh",
+  "name": "nano-code.small-plates",
   "version": "0.0.3",
-  "description": "",
   "license": "MIT",
   "type": "module",
-  "homepage": "{{ homepage }}",
+  "homepage": "http://{{ homepage }}",
   "scripts": {
     "serve": "npx backlight@latest serve DUiJSW04KExS5FQx6HXs --open"
   },
@@ -12,5 +11,14 @@
     "@divriots/dockit-core": "^0.9.1",
     "lit": "^2.2.2"
   },
-  "dependencies": {}
+  "main": "mdjs.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nan-code/small-plates.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/nan-code/small-plates/issues"
+  },
+  "description": ""
 }
